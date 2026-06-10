@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "FireWatch SP",
+    "slug": "firewatch-sp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "br.com.fiap.firewatchsp"
+    },
+    "backgroundColor": "#000000"
+  }
+}
