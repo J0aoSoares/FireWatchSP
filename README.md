@@ -71,7 +71,7 @@ Depois, escaneie o QR Code com o **Expo Go** (Android) ou com a câmera (iOS), o
 
 - ✅ **Mínimo de 5 telas navegáveis** — 6 telas com **React Navigation** (native-stack + bottom-tabs)
 - ✅ **Persistência com AsyncStorage** — sessão de login, relatos do cidadão (criar/listar/excluir) e focos favoritados
-- ✅ **Estilização personalizada** — identidade visual própria com tema "observação orbital noturna": fundo azul-espaço, laranja-brasa para fogo/ações e ciano para telemetria de satélite (tokens centralizados em `src/theme/theme.js`)
+- ✅ **Estilização personalizada** — identidade visual própria com tema escuro minimalista: fundo preto, laranja para fogo/ações e ciano para telemetria de satélite (tokens centralizados em `src/theme/theme.js`)
 - ✅ **Organização clara** — separação por responsabilidade: `screens/`, `components/`, `services/`, `data/`, `theme/`
 
 ---
